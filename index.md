@@ -12,6 +12,18 @@ page_sections:
   cta:
     url: "/contact"
     button_text: Get in touch
+- template: hero-banner-w-image
+  block: hero-2
+  image:
+    image: "/uploads/2019/05/28/sdl-full.png"
+    alt_text: ''
+  background_image: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
